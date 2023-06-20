@@ -1,5 +1,5 @@
 # libgdx-lessons
-This repository contains lecture handouts and sample source code that supports my youtube videos about LibGDX programming:
+LibGDX is a Java library for game development and special effects. This repository contains lecture handouts and sample source code that supports my youtube lessons about LibGDX programming:
 
 https://www.youtube.com/playlist?list=PLqRUurHm1FPH6UMahiWjUlppEv9O0cuLJ
 
